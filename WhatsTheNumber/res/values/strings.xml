@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="app_name">What\'s The Number</string>
+    <string name="Level1">Level 1</string>
+    <string name="Level2">Level 2</string>
+    <string name="Level3">Level 3</string>
+
+</resources>
